@@ -134,10 +134,19 @@
 	margin: 5px auto 0px;
 }
 
-.award-section {
+.contrib-section {
     height: auto;
     font-size: 18px;
     background: #f7f7f7;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
+}
+
+.award-section {
+    height: auto;
+    font-size: 18px;
+    background: #ffffff;
     padding-top: 40px;
     padding-bottom: 40px;
     font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, sans-serif !important;
